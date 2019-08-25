@@ -1,2 +1,2 @@
 # dummy-todo-app-front
-React Js frontend implementation for dummy todo app Api.
+React Js frontend implementation for dummy todo app Api. In progress...
